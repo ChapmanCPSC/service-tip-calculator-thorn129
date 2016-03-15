@@ -5,6 +5,8 @@
 //  Created by Kyle Thornton on 3/14/16.
 //  Copyright © 2016 ThornTech. All rights reserved.
 //
+// really struggled with this assignment. Used tutorial found here for help. https://www.weheartswift.com/getting-started-with-ios-programming/
+//This errors out but I cannot figure out why.
 
 import UIKit
 
